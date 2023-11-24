@@ -9,6 +9,10 @@
 //              You may assume that each input would have exactly one solution,
 //              and you may not use the same element twice. 
 //              You can return the answer in any order.
+//
+// Time Complexity: O(n)
+//
+// Space Complexity: O(n)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
